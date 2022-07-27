@@ -1,0 +1,6 @@
+{
+    "exportall.config.folderListener": [
+        "/src/domain/model",
+        "/src/infra/db/repositories"
+    ]
+}

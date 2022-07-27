@@ -1,0 +1,1 @@
+{"version":3,"file":"delete-by-slug.js","sourceRoot":"","sources":["../../../../../src/presentation/controllers/generic/delete-by-slug.ts"],"names":[],"mappings":";;;AAIA,MAAa,6BAA6B;IACzC,YAAY,gBAA2C,IAAG,CAAC;IAE3D,KAAK,CAAC,MAAM,CAAC,OAAY;QACxB,OAAO;YACN,UAAU,EAAE,GAAG;YACf,IAAI,EAAE;gBACL,OAAO,EAAE,2BAA2B;aACpC;SACD,CAAC;IACH,CAAC;CACD;AAXD,sEAWC"}

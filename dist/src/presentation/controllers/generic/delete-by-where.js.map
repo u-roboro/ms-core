@@ -1,0 +1,1 @@
+{"version":3,"file":"delete-by-where.js","sourceRoot":"","sources":["../../../../../src/presentation/controllers/generic/delete-by-where.ts"],"names":[],"mappings":";;;AAIA,MAAa,8BAA8B;IAC1C,YAAY,gBAA2C,IAAG,CAAC;IAE3D,KAAK,CAAC,MAAM,CAAC,OAAY;QACxB,OAAO;YACN,UAAU,EAAE,GAAG;YACf,IAAI,EAAE;gBACL,OAAO,EAAE,2BAA2B;aACpC;SACD,CAAC;IACH,CAAC;CACD;AAXD,wEAWC"}
